@@ -3,7 +3,8 @@ Extended data for Keim et al. in preparation
 
 Extended Data Fig. 2 | The AHA-specific translocation. The genomic regions associated with the AHA-specific translocation (Fang et al. 2010) were aligned using MUMmer (Kurtz et al. 2004) and visualized with pyGenomeViz (https://github.com/moshi4/pyGenomeViz). Open reading frames are shown by blue triangles that indicate their strand orientation. Green triangles represent ribosomal RNA genes. The ATCC19397 genome serves as an outgroup, which demonstrates that the translocation is ancestral in X58540 and derived in Army Hall A (CP000727). The genomic coordinates for the three aligned segments are shown beside each strain label.  An HTML version of the figure is available that allows interactive exploration of the genes and their annotations. Download the Extended_Data_Figure_2.html file and open in a web browser or click on the link below:<br>
 <br>
-[![Extended Data Figure 2](https://github.com/chawillia/Cbotulinum_domestication/tree/main/docs)](https://chawillia.github.io/Cbotulinum_domestication/)
+[![Extended Data Figure 2](https://github.com/chawillia/Cbotulinum_domestication/tree/main/docs/image.png)](https://chawillia.github.io/Cbotulinum_domestication/)
+<br>
 <br>
 References:<br>
 Fang, P.K., Raphael, B.H., Maslanka, S.E., Cai, S. & Singh, B.R. Analysis of genomic differences among Clostridium botulinum type A1 strains. BMC Genomics 11, 725 (2010). 
